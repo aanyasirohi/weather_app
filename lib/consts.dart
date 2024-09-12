@@ -1,1 +1,1 @@
-const OPENWEATHER_API_KEY = "3a38d29ddc4ab9f5b01e5a930772325b";
+const OPENWEATHER_API_KEY = "//enter your api key";
